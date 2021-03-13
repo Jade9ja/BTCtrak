@@ -1,2 +1,2 @@
 # BTCtrak
-Simple Bitcoin price tracker
+Simple Bitcoin tracker
